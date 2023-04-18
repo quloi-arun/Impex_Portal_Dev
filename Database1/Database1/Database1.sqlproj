@@ -328,5 +328,6 @@
     <Build Include="dbo\User Defined Types\tvpPriceChangeHistory.sql" />
     <Build Include="dbo\User Defined Types\tvpPOChangeHistory.sql" />
     <Build Include="Security\utils.sql" />
+    <Build Include="dbo\Stored Procedures\USP_TestArun.sql" />
   </ItemGroup>
 </Project>
