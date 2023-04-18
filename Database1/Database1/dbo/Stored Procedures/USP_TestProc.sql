@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE USP_TestProc
+AS
+BEGIN
+SELECT * FROM MasterUser
+END

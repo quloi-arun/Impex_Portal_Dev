@@ -1,0 +1,2 @@
+﻿CREATE USER [WEBSERVER\sqladmin] FOR LOGIN [WEBSERVER\sqladmin];
+
