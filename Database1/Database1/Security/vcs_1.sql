@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [vcs]
+    WITH PASSWORD = N'neb5bzxmimq.xnmyXlsgf@?LmsFT7_&#$!~<{dm yY;zxZPQ', SID = 0x414C3E4019DB424EADAA4EDEBC2B3C10, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

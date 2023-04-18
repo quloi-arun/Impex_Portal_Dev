@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [repluser]
+    WITH PASSWORD = N'ne,bzMzxmimsqYxnm8yNlsg{msFT7_&#$!~<dhymIwyzxtyC', SID = 0x31FBBEA737AD46439057BBF877156ABC, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
